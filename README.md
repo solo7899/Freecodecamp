@@ -1,1 +1,1 @@
-# Freecodecamp certification project
+# Freecodecamp certification projects
